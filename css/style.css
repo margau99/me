@@ -1,0 +1,41 @@
+body{ 
+	background-color: rgb(200,50,60); 
+
+	text-align: center;
+
+ 	font-family: Georgia;
+}
+
+button{
+	width: 100px;
+	color: white;
+	border-radius: 200px;
+	background-color: black;
+}
+
+.button-div-right {
+	text-align: right;
+
+}
+.button-div-left {
+	text-align: left;
+	width: 900px;
+	border-right: 5000px;
+}
+.button-div-left {
+	text-align: left;
+}
+.button-div-left {
+	text-align: left;
+	
+}
+
+#header-boxed {
+	border: 2px solid black;
+
+}
+
+.cap-pic{
+	width: 500px;
+	height: 900px;
+}
